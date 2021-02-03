@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <title>404</title>
+    </head>
+    <body>
+        Страница не найдена
+    </body>
+</html>
